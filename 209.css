@@ -42,7 +42,7 @@
 }
 .logo{
     display: inline-block;
-    background: url(../Images/Logo.jpg) no-repeat;
+    background: url(Images/Logo.jpg) no-repeat;
     background-size: contain;
     float: left;
     padding: 5px 10px;
@@ -51,7 +51,7 @@
 
 .bg{
     padding-top: 56%;
-    background: url(../Images/su-tro-1280px_bg.jpg) no-repeat center;
+    background: url(Images/su-tro-1280px_bg.jpg) no-repeat center;
     background-size: contain;
     -webkit-background-size:contain;
 }
@@ -90,7 +90,7 @@
     .slide_bar{float: none;width: 100%;}
     .bg{
         padding-top: 66.4%;
-        background: url(../Images/white.jpg) no-repeat center;
+        background: url(Images/white.jpg) no-repeat center;
         background-size: contain;
         -webkit-background-size:contain;
     }
